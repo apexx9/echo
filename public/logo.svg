@@ -1,0 +1,8 @@
+<svg width="180" height="50" viewBox="0 0 180 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(5, 5) scale(0.8)">
+    <path d="M6 25C6 14.5066 14.5066 6 25 6C35.4934 6 44 14.5066 44 25" stroke="black" stroke-width="4" stroke-linecap="round"/>
+    <path d="M14 34C14 27.9249 18.9249 23 25 23C31.0751 23 36 27.9249 36 34" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  
+  <text x="65" y="36" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-weight="600" font-size="32" letter-spacing="-0.04em" fill="black">echo</text>
+</svg>
